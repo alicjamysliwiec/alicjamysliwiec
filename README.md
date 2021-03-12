@@ -5,23 +5,23 @@
 
 😎I'm familiar with:
 
-C, C++, C#
+•C, C++, C#
 
-Java, JavaScript
+•Java, JavaScript
 
-Databases, SQL/MySQL
+•Databases, SQL/MySQL
 
-Desing patterns and UML
+•Desing patterns and UML
 
-HTML, CSS, Bootstrap, API
+•HTML, CSS, Bootstrap, API
 
-VS Community, VS Code, Visual Paradigm, MySQL Workbench
+•VS Community, VS Code, Visual Paradigm, MySQL Workbench
 
 💬Languages:
 
-English B2
+•English B2
 
-German A1
+•German A1
 
 
 💪I have already gained some experience:
