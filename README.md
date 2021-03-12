@@ -3,6 +3,7 @@
 👀 In my free time I read books and articles about psychology. I am interested in mechanisms of human behavior, that is why my dream job relates to people. I have an artistic mind. I adore music and dance. I also play bridge and achieve successes in that field, which is my real passion.
 
 😎I'm familiar with:
+
 -C, C++, C#
 -Java, JavaScript
 -Databases, SQL/MySQL
