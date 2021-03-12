@@ -5,14 +5,23 @@
 😎I'm familiar with:
 
 C, C++, C#
+
 Java, JavaScript
+
 Databases, SQL/MySQL
+
 Desing patterns and UML
+
 HTML, CSS, Bootstrap, API
+
 VS Community, VS Code, Visual Paradigm, MySQL Workbench
+
 💬Languages:
+
 English B2
+
 German A1
+
 
 💪I have already gained some experience:
 •	SheCodes Online Workshop – Introduction to Coding
