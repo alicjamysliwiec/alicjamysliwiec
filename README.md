@@ -4,15 +4,15 @@
 
 😎I'm familiar with:
 
--C, C++, C#
--Java, JavaScript
--Databases, SQL/MySQL
--Desing patterns and UML
--HTML, CSS, Bootstrap, API
--VS Community, VS Code, Visual Paradigm, MySQL Workbench
+C, C++, C#
+Java, JavaScript
+Databases, SQL/MySQL
+Desing patterns and UML
+HTML, CSS, Bootstrap, API
+VS Community, VS Code, Visual Paradigm, MySQL Workbench
 💬Languages:
--English B2
--German A1
+English B2
+German A1
 
 💪I have already gained some experience:
 •	SheCodes Online Workshop – Introduction to Coding
@@ -23,5 +23,5 @@ Valid certificate ID: b5d16a7d4a1bb69eec31cd8983b2731d
 🌱I’m currently learning React 
  
 📫 How to reach me:
--Gmail: alicjamysliwiec16@gmail.com
--LinkedIn: https://www.linkedin.com/in/alicja-my%C5%9Bliwiec-b8b160201/
+Gmail: alicjamysliwiec16@gmail.com
+LinkedIn: https://www.linkedin.com/in/alicja-my%C5%9Bliwiec-b8b160201/
