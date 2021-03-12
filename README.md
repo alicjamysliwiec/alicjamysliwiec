@@ -26,9 +26,11 @@ German A1
 
 💪I have already gained some experience:
 
-•	SheCodes Online Workshop – Introduction to Coding      Valid certificate ID: 7362c1620c8a96d25dbc6b6ad5d9172a
+•	SheCodes Online Workshop – Introduction to Coding      
+Valid certificate ID: 7362c1620c8a96d25dbc6b6ad5d9172a
 
-•	SheCodes Online Workshop – Front End Development       Valid certificate ID: b5d16a7d4a1bb69eec31cd8983b2731d
+•	SheCodes Online Workshop – Front End Development       
+Valid certificate ID: b5d16a7d4a1bb69eec31cd8983b2731d
 
 
 🌱I’m currently learning React 
