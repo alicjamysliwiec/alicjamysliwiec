@@ -1,5 +1,7 @@
 👋 Hi, I’m Alicja Myśliwiec, enthusiastic and motivated student (3rd year of IT on Wrocław University of Science and Technology - engineer studies). I would like to relate my professional future to designing databases, connecting database applications and front-end technology. I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
 
+👩‍⚖️Currently, I'm working at the Brassel Aparthotel during the weekends and I am doing an internship at HICRON in SAPUI5 technology.
+
 👀 In my free time I read books and articles about psychology. I am interested in mechanisms of human behavior, that is why my dream job relates to people. I have an artistic mind. I adore music and dance. I also play bridge and achieve successes in that field, which is my real passion.
 
 
@@ -33,7 +35,9 @@ Valid certificate ID: 7362c1620c8a96d25dbc6b6ad5d9172a
 Valid certificate ID: b5d16a7d4a1bb69eec31cd8983b2731d
 
 
-🌱I’m currently learning React 
+🌱I’m currently learning 
+•React 
+•SAPUI5
 
  
 📫 How to reach me:
