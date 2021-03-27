@@ -2,7 +2,7 @@
 
 👩‍⚖️Currently, I'm working at the Brassel Aparthotel during the weekends and I am doing an internship at HICRON in SAPUI5 technology.
 
-👀 In my free time I read books and articles about psychology. I am interested in mechanisms of human behavior, that is why my dream job relates to people. I have an artistic mind. I adore music and dance. I also play bridge and achieve successes in that field, which is my real passion.
+👀 In my free time I read books and articles about psychology. I am interested in mechanisms of human behavior, that is why my dream job relates to people. I have an artistic mind. I adore music and dance. I also play bridge and achieve successes in that field, which is my real passion. Recently, I have also been involved in figure skating.
 
 
 😎I'm familiar with:
