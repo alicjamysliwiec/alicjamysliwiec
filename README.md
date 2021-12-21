@@ -1,6 +1,6 @@
-👋 Hi, I’m Alicja Myśliwiec, enthusiastic and motivated student (3rd year of IT on Wrocław University of Science and Technology - engineer studies). I would like to relate my professional future to designing databases, connecting database applications and front-end technology. I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
+👋 Hi, I’m Alicja Myśliwiec, enthusiastic and motivated student (4th year of IT on Wrocław University of Science and Technology - engineer studies). I would like to relate my professional future to web applications and front-end technology. I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
 
-👩‍⚖️Currently, I'm working as a Junior Fiori Developer at Hicron and additionally during the weekends at the Brassel Aparthotel in Wrocław. Now another challenge is waiting for me - coming soon 🤗
+👩‍⚖️Currently, I'm working as a React Developer in the Red Software House and additionally as an Assistant Engineer in the Opera Software in Wrocław. Now I am almost finishing my studies 🤗
 
 👀 In my free time I read books and articles about psychology. I am interested in mechanisms of human behavior, that is why my dream job relates to people. I have an artistic mind. I adore music and dance. I also play bridge and achieve successes in that field, which is my real passion. Recently, I have also been involved in figure skating.
 
@@ -17,7 +17,7 @@
 
 •HTML, CSS, Bootstrap, API, SAPUI5, React
 
-•VS Community, VS Code, Visual Paradigm, MySQL Workbench
+•VS Community, VS Code, Visual Paradigm, MySQL Workbench, Git
 
 💬Languages:
 
@@ -41,9 +41,6 @@ Valid certificate ID: be174eb0905781243b5574429d06aa14
 🌱I’m still learning 
 
 •React
-
-•Fiori/ABAP
-
  
 📫 How to reach me:
 
