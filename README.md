@@ -1,15 +1,13 @@
-👋 Hi, I’m Alicja Myśliwiec, enthusiastic and motivated student (4th year of IT on Wrocław University of Science and Technology - engineer studies). I would like to relate my professional future to web applications and front-end technology. I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
+👋 Hi, I’m Alicja Sołtys, enthusiastic and motivated graduate of IT on Wrocław University of Science and Technology - engineer and master studies. I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
 
-👩‍⚖️Currently, I'm working as a React Developer in the Red Software House and additionally as an Assistant Engineer in the Opera Software in Wrocław. Now I am almost finishing my studies 🤗
+👩‍⚖️Currently, I'm working as a MS Dynamics Developer in the EY GDS Poland but I also worked as a Frontend/Fiori/React/Software Developer in other companies.
 
-👀 In my free time I read books and articles about psychology. I am interested in mechanisms of human behavior, that is why my dream job relates to people. I have an artistic mind. I adore music and dance. I also play bridge and achieve successes in that field, which is my real passion. Recently, I have also been involved in figure skating.
+👀 In my free time I read books and articles about psychology. I am interested in mechanisms of human behavior, that is why my dream job relates to people. I have an artistic mind. I adore music and dance. I also play bridge and achieve successes in that field, which is my real passion. Recently, I have also been involved in figure skating and crocheting. 
 
 
 😎I'm familiar with:
 
-•C, C++, C#
-
-•Java, JavaScript
+•JavaScript and TypeScript
 
 •Databases, SQL/MySQL
 
@@ -18,6 +16,8 @@
 •HTML, CSS, Bootstrap, API, SAPUI5, React
 
 •VS Community, VS Code, Visual Paradigm, MySQL Workbench, Git
+
+•MS Dynamics 365 F&O
 
 💬Languages:
 
