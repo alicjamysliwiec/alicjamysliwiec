@@ -1,4 +1,8 @@
-👋 Hi, I’m Alicja Sołtys, enthusiastic and motivated graduate of IT on Wrocław University of Science and Technology - engineer and master studies. I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
+👋 Hi, I’m Alicja Sołtys, enthusiastic and motivated graduate of Computer Science on Wrocław University of Science and Technology. 
+•Engineering thesis: Web application supporting hotel management (02.2022)
+•Master thesis: Study of the impact of Applied Accessibility Recommendations of the WCAG Standard on the Performance and Positioning of a Web Application (07.2023)
+
+I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
 
 👩‍⚖️Currently, I'm working as a MS Dynamics Developer in the EY GDS Poland but I also worked as a Frontend/Fiori/React/Software Developer in other companies.
 
