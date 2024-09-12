@@ -1,5 +1,6 @@
 👋 Hi, I’m Alicja Sołtys, enthusiastic and motivated graduate of Computer Science on Wrocław University of Science and Technology. 
 •Engineering thesis: Web application supporting hotel management (02.2022)
+
 •Master thesis: Study of the impact of Applied Accessibility Recommendations of the WCAG Standard on the Performance and Positioning of a Web Application (07.2023)
 
 I am hardworking, conscientious and I take care of details, so I perform the tasks entrusted to me with due diligence.
