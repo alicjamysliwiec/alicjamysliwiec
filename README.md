@@ -37,10 +37,9 @@ Valid certificate ID: b5d16a7d4a1bb69eec31cd8983b2731d
 •	SheCodes Online Workshop – Responsive Web Development       
 Valid certificate ID: be174eb0905781243b5574429d06aa14
 
+•	SheCodes Online Workshop – React Development       
+Valid certificate ID: c49167c53c56f3f486cb8bdeeb1351f6
 
-🌱I’m still learning 
-
-•React
  
 📫 How to reach me:
 
